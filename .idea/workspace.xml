@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="127308e2-7a03-40db-b090-43e5651132f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="C:/php-7.4.3-nts-Win32-vc15-x64" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Y1sr8pev22TyPEIDag7lNLUT2I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\Desktop\ВТ 1 лаба" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled/home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="127308e2-7a03-40db-b090-43e5651132f1" name="Default Changelist" comment="" />
+      <created>1582121631548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582121631548</updated>
+      <workItem from="1582121638297" duration="4578000" />
+      <workItem from="1582127824204" duration="5713000" />
+      <workItem from="1582179099043" duration="975000" />
+      <workItem from="1582188591630" duration="707000" />
+      <workItem from="1582632426799" duration="666000" />
+      <workItem from="1582653242113" duration="3863000" />
+      <workItem from="1582713837718" duration="2935000" />
+      <workItem from="1582790401810" duration="669000" />
+      <workItem from="1582791102764" duration="222000" />
+      <workItem from="1582791373970" duration="24000" />
+      <workItem from="1582791463465" duration="2650000" />
+      <workItem from="1582794286426" duration="3358000" />
+      <workItem from="1583346710619" duration="3779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="38" key="#CLI_Interpreters" timestamp="1582179210576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="310" y="38" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1582179210576" />
+    <state x="349" y="67" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1582136224280" />
+    <state x="423" y="0" key="#PHP" timestamp="1582179211986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="423" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1582179211986" />
+    <state x="476" y="3" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1582136225265" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583350582481">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583350582481" />
+    <state x="449" y="140" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582126859525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="140" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1582126859525" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582790772627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582790772627" />
+    <state x="495" y="147" key="FileChooserDialogImpl" timestamp="1582179183736">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="495" y="147" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582179183736" />
+    <state x="557" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582134705799" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1583349276716">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1583349276716" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1583350617461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583350617461" />
+    <state x="414" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1583346785886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583346785886" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582127826488" />
+    <state x="121" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1582179209032">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="121" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1582179209032" />
+    <state width="602" height="392" key="javadoc.popup" timestamp="1582122109426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="602" height="392" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1582122109426" />
+    <state x="405" y="269" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582653995687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="269" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1582653995687" />
+  </component>
+</project>
